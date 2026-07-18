@@ -20,8 +20,8 @@ from aiogram.utils.keyboard import InlineKeyboardBuilder
 
 API_TOKEN = "8312694091:AAGFdN1OVQU0aTqlUjOxUnSrFVsUj8midN0"
 
-EMAIL = 'dilraider.pek307@gmail.com'
-PASSWORD = 'Sk23Ghf52_0ds'
+EMAIL = '---'
+PASSWORD = '---'
 
 MARTIN = 'https://fortuneadvert.com/martin/?_preview=show&pkey=f73346043c'
 Martin_Prices = []
